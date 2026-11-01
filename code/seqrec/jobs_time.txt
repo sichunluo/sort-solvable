@@ -1,0 +1,12 @@
+beauty_t --method sasrec --seed 0 --refit 1
+sports_t --method sasrec --seed 0 --refit 1
+toys_t --method sasrec --seed 0 --refit 1
+ml1m_t --method sasrec --seed 0 --refit 1
+beauty_t --method sasrec --seed 1 --refit 1
+sports_t --method sasrec --seed 1 --refit 1
+toys_t --method sasrec --seed 1 --refit 1
+ml1m_t --method sasrec --seed 1 --refit 1
+beauty_t --method sasrec --seed 2 --refit 1
+sports_t --method sasrec --seed 2 --refit 1
+toys_t --method sasrec --seed 2 --refit 1
+ml1m_t --method sasrec --seed 2 --refit 1

@@ -1,0 +1,310 @@
+{
+ "beauty": {
+  "esasrec": [
+   0.05164138255748859,
+   0.0009716985151091263,
+   5
+  ],
+  "esasrec_per_seed": [
+   0.0508,
+   0.0526,
+   0.0511,
+   0.053,
+   0.0507
+  ],
+  "esasrec_refit": [
+   0.062601815292096,
+   0.0008105223052985134,
+   5
+  ],
+  "esasrec_refit_per_seed": [
+   0.0611,
+   0.0631,
+   0.0634,
+   0.0624,
+   0.0631
+  ],
+  "base": {
+   "pctm": 0.0635,
+   "mostpop": 0.0061,
+   "pctm_sym": 0.0529,
+   "seqrules": 0.0605
+  },
+  "conv/pctm": 0.813,
+  "refit/pctm": 0.986,
+  "refit/pctm_sym": 1.183,
+  "refit_gain_%": 21.2,
+  "refit/best_base": 0.986,
+  "best_base": "pctm",
+  "conv-published": -0.0008
+ },
+ "sports": {
+  "esasrec": [
+   0.03196858887177789,
+   0.00046429689450608346,
+   5
+  ],
+  "esasrec_per_seed": [
+   0.0325,
+   0.0312,
+   0.0317,
+   0.0323,
+   0.0321
+  ],
+  "esasrec_refit": [
+   0.038732759404037746,
+   0.00022968380841402905,
+   5
+  ],
+  "esasrec_refit_per_seed": [
+   0.0386,
+   0.0387,
+   0.0385,
+   0.0387,
+   0.0392
+  ],
+  "base": {
+   "pctm": 0.0368,
+   "mostpop": 0.0052,
+   "pctm_sym": 0.031,
+   "seqrules": 0.0371
+  },
+  "conv/pctm": 0.869,
+  "refit/pctm": 1.053,
+  "refit/pctm_sym": 1.251,
+  "refit_gain_%": 21.2,
+  "refit/best_base": 1.043,
+  "best_base": "seqrules",
+  "conv-published": -0.0004
+ },
+ "toys": {
+  "esasrec": [
+   0.05306621383524836,
+   0.0003381573866636636,
+   5
+  ],
+  "esasrec_per_seed": [
+   0.0533,
+   0.0525,
+   0.053,
+   0.0534,
+   0.0532
+  ],
+  "esasrec_refit": [
+   0.06743120629367287,
+   0.0005986422049331016,
+   5
+  ],
+  "esasrec_refit_per_seed": [
+   0.0678,
+   0.0678,
+   0.0666,
+   0.0681,
+   0.0668
+  ],
+  "base": {
+   "pctm": 0.0738,
+   "mostpop": 0.0053,
+   "pctm_sym": 0.0637,
+   "seqrules": 0.073
+  },
+  "conv/pctm": 0.719,
+  "refit/pctm": 0.914,
+  "refit/pctm_sym": 1.058,
+  "refit_gain_%": 27.1,
+  "refit/best_base": 0.914,
+  "best_base": "pctm",
+  "conv-published": -0.0002
+ },
+ "ml1m": {
+  "esasrec": [
+   0.17704500734593487,
+   0.0008351905091927277,
+   5
+  ],
+  "esasrec_per_seed": [
+   0.178,
+   0.1768,
+   0.1781,
+   0.1762,
+   0.1762
+  ],
+  "esasrec_refit": [
+   0.17968442156018152,
+   0.0007659364110417868,
+   5
+  ],
+  "esasrec_refit_per_seed": [
+   0.181,
+   0.1788,
+   0.1794,
+   0.18,
+   0.1791
+  ],
+  "base": {
+   "pctm": 0.1815,
+   "mostpop": 0.0178,
+   "pctm_sym": 0.152,
+   "seqrules": 0.1505
+  },
+  "conv/pctm": 0.975,
+  "refit/pctm": 0.99,
+  "refit/pctm_sym": 1.182,
+  "refit_gain_%": 1.5,
+  "refit/best_base": 0.99,
+  "best_base": "pctm",
+  "conv-published": 0.0031
+ },
+ "beauty_fr": {
+  "esasrec": [
+   0.04153284871788355,
+   0.0007798433753809097,
+   5
+  ],
+  "esasrec_per_seed": [
+   0.0419,
+   0.0411,
+   0.0402,
+   0.042,
+   0.0424
+  ],
+  "esasrec_refit": [
+   0.04664184027701173,
+   0.0005641469563207442,
+   5
+  ],
+  "esasrec_refit_per_seed": [
+   0.0465,
+   0.0461,
+   0.046,
+   0.0475,
+   0.0471
+  ],
+  "base": {
+   "pctm": 0.0462,
+   "mostpop": 0.0061,
+   "pctm_sym": 0.0483,
+   "seqrules": 0.044
+  },
+  "conv/pctm": 0.898,
+  "refit/pctm": 1.009,
+  "refit/pctm_sym": 0.967,
+  "refit_gain_%": 12.3,
+  "refit/best_base": 0.967,
+  "best_base": "pctm_sym"
+ },
+ "sports_fr": {
+  "esasrec": [
+   0.024824635262129562,
+   0.0005987220528283125,
+   5
+  ],
+  "esasrec_per_seed": [
+   0.0254,
+   0.0245,
+   0.0238,
+   0.025,
+   0.0253
+  ],
+  "esasrec_refit": [
+   0.028320095195964318,
+   0.00022126944008796527,
+   5
+  ],
+  "esasrec_refit_per_seed": [
+   0.0286,
+   0.0285,
+   0.028,
+   0.0281,
+   0.0285
+  ],
+  "base": {
+   "pctm": 0.028,
+   "mostpop": 0.0052,
+   "pctm_sym": 0.0292,
+   "seqrules": 0.0283
+  },
+  "conv/pctm": 0.887,
+  "refit/pctm": 1.012,
+  "refit/pctm_sym": 0.969,
+  "refit_gain_%": 14.1,
+  "refit/best_base": 0.969,
+  "best_base": "pctm_sym"
+ },
+ "toys_fr": {
+  "esasrec": [
+   0.041931299486263576,
+   0.0009415026665369365,
+   5
+  ],
+  "esasrec_per_seed": [
+   0.0429,
+   0.0409,
+   0.042,
+   0.043,
+   0.0408
+  ],
+  "esasrec_refit": [
+   0.04856111101505595,
+   0.00046398789206447883,
+   5
+  ],
+  "esasrec_refit_per_seed": [
+   0.0483,
+   0.0491,
+   0.0481,
+   0.0491,
+   0.0482
+  ],
+  "base": {
+   "pctm": 0.0491,
+   "mostpop": 0.0053,
+   "pctm_sym": 0.0544,
+   "seqrules": 0.0508
+  },
+  "conv/pctm": 0.855,
+  "refit/pctm": 0.99,
+  "refit/pctm_sym": 0.892,
+  "refit_gain_%": 15.8,
+  "refit/best_base": 0.892,
+  "best_base": "pctm_sym"
+ },
+ "ml1m_fr": {
+  "esasrec": [
+   0.16462960799485882,
+   0.00200330150097226,
+   5
+  ],
+  "esasrec_per_seed": [
+   0.1608,
+   0.1664,
+   0.1647,
+   0.165,
+   0.1662
+  ],
+  "esasrec_refit": [
+   0.16725411009411398,
+   0.0025636779269820067,
+   5
+  ],
+  "esasrec_refit_per_seed": [
+   0.1642,
+   0.1685,
+   0.1676,
+   0.1648,
+   0.1712
+  ],
+  "base": {
+   "pctm": 0.165,
+   "mostpop": 0.0178,
+   "pctm_sym": 0.1526,
+   "seqrules": 0.1361
+  },
+  "conv/pctm": 0.998,
+  "refit/pctm": 1.013,
+  "refit/pctm_sym": 1.096,
+  "refit_gain_%": 1.6,
+  "refit/best_base": 1.013,
+  "best_base": "pctm"
+ }
+}

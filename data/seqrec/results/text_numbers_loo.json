@@ -1,0 +1,487 @@
+{
+ "beauty": {
+  "ndcg_share_tied": {
+   "pctm": 0.697,
+   "sasrec": 0.648,
+   "sasrec_refit": 0.654
+  },
+  "pctm_lead_share_tied_conv": 1.036,
+  "sasrec_conv": 0.0555,
+  "sasrec_refit": 0.0638,
+  "sasrec_conv_minus_sasplus": 0.0018,
+  "refit_gain_%": 15.0,
+  "gru_refit_gain_%": 16.7,
+  "gru_refit/pctm": 0.932,
+  "refit/pctm_tied_other": [
+   0.942,
+   1.148
+  ],
+  "conv/pctm": 0.873,
+  "inner_pctm_change_%": -13.1,
+  "conv/inner_pctm": 1.005,
+  "fr_conv/pctm": 0.949,
+  "fr_refit/pctm_tied": 0.988,
+  "fr_refit/pctm_sym_tied_other": [
+   0.889,
+   1.184
+  ],
+  "fr_gru_refit_change_tied_%": -38.4,
+  "late_gain_conv_%": 16.4,
+  "late_gain_share_tied": [
+   0.825,
+   0.86
+  ],
+  "late_refit/pctm_%": 11.5,
+  "poe_luo1_vs_late_%": [
+   -6.1,
+   -6.4,
+   -7.0,
+   -6.1,
+   -7.7
+  ],
+  "poe_luo1/pctm": 0.949,
+  "poe_luo0_vs_late_%": [
+   -5.2,
+   -4.8,
+   -5.5,
+   -5.5,
+   -5.4
+  ],
+  "poe_luo0/pctm": 0.963,
+  "poe_luo1_refit_vs_late_%": [
+   -4.8,
+   -4.9,
+   -5.4,
+   -5.8,
+   -4.9
+  ],
+  "poe_luo1_refit/pctm": 1.057,
+  "poe_luo1_bval_vs_late_%": [
+   -4.9,
+   -5.0,
+   -5.4,
+   -4.9,
+   -5.4
+  ],
+  "poe_luo1_bval/pctm": 0.965,
+  "poe_luo1_fix_vs_late_%": [
+   -6.6,
+   -6.4,
+   -5.3,
+   -7.1,
+   -7.7
+  ],
+  "poe_luo1_fix/pctm": 0.949,
+  "residual_luo_vs_full_%": 15.0,
+  "poe_learned_beta": [
+   1.59,
+   1.57,
+   1.58,
+   1.58,
+   1.57
+  ],
+  "bval_best_epoch": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "tuned_vs_late_%": 0.8,
+  "late_beta_val": [
+   5.0,
+   8.0
+  ],
+  "std_ratio_top100": {
+   "late": 0.98,
+   "poe": 0.37
+  },
+  "stacking_beta_star": {
+   "luo": [
+    0.0
+   ],
+   "full": [
+    20.0
+   ]
+  },
+  "stacking_val_beta": [
+   5.0,
+   8.0
+  ],
+  "gate_minus_late": 0.0006,
+  "ltr_gain_%": 3.5,
+  "ltr_share_of_oracle_margin": 0.15,
+  "oracle_selector_vs_late_%": 23.9,
+  "oracle_vs_late_%": 23.9,
+  "oracle_seed_vs_late_%": 7.5,
+  "ens_all_vs_sasrec_%": 11.5,
+  "ens_all_vs_late_%": -4.2,
+  "jaccard": [
+   0.52,
+   0.63
+  ]
+ },
+ "sports": {
+  "ndcg_share_tied": {
+   "pctm": 0.656,
+   "sasrec": 0.646,
+   "sasrec_refit": 0.662
+  },
+  "pctm_lead_share_tied_conv": 0.711,
+  "sasrec_conv": 0.0312,
+  "sasrec_refit": 0.0365,
+  "sasrec_conv_minus_sasplus": -0.0003,
+  "refit_gain_%": 17.0,
+  "gru_refit_gain_%": 21.5,
+  "gru_refit/pctm": 0.853,
+  "refit/pctm_tied_other": [
+   1.003,
+   0.975
+  ],
+  "conv/pctm": 0.849,
+  "inner_pctm_change_%": -10.7,
+  "conv/inner_pctm": 0.95,
+  "fr_conv/pctm": 0.866,
+  "fr_refit/pctm_tied": 0.945,
+  "fr_refit/pctm_sym_tied_other": [
+   0.863,
+   0.999
+  ],
+  "fr_gru_refit_change_tied_%": -48.1,
+  "late_gain_conv_%": 28.5,
+  "late_gain_share_tied": [
+   0.682,
+   0.633
+  ],
+  "late_refit/pctm_%": 19.2,
+  "poe_luo1_vs_late_%": [
+   -13.8,
+   -15.3,
+   -13.7,
+   -14.8,
+   -16.7
+  ],
+  "poe_luo1/pctm": 0.929,
+  "poe_luo0_vs_late_%": [
+   -13.5,
+   -11.8,
+   -12.9,
+   -9.9,
+   -15.2
+  ],
+  "poe_luo0/pctm": 0.953,
+  "poe_luo1_refit_vs_late_%": [
+   -10.4,
+   -11.9,
+   -11.0,
+   -12.0,
+   -9.3
+  ],
+  "poe_luo1_refit/pctm": 1.062,
+  "poe_luo1_bval_vs_late_%": [
+   -15.4,
+   -16.0,
+   -15.7,
+   -15.1,
+   -15.9
+  ],
+  "poe_luo1_bval/pctm": 0.921,
+  "poe_luo1_fix_vs_late_%": [
+   -17.3,
+   -17.3,
+   -16.6,
+   -17.2,
+   -17.0
+  ],
+  "poe_luo1_fix/pctm": 0.905,
+  "residual_luo_vs_full_%": 17.3,
+  "poe_learned_beta": [
+   1.53,
+   1.62,
+   1.64,
+   1.63,
+   1.54
+  ],
+  "bval_best_epoch": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "tuned_vs_late_%": -1.7,
+  "late_beta_val": [
+   8.0
+  ],
+  "std_ratio_top100": {
+   "late": 1.14,
+   "poe": 0.41
+  },
+  "stacking_beta_star": {
+   "luo": [
+    0.0
+   ],
+   "full": [
+    20.0
+   ]
+  },
+  "stacking_val_beta": [
+   8.0
+  ],
+  "gate_minus_late": 0.0002,
+  "ltr_gain_%": 4.2,
+  "ltr_share_of_oracle_margin": 0.18,
+  "oracle_selector_vs_late_%": 23.7,
+  "oracle_vs_late_%": 23.3,
+  "oracle_seed_vs_late_%": 3.5,
+  "ens_all_vs_sasrec_%": 18.7,
+  "ens_all_vs_late_%": -7.6,
+  "jaccard": [
+   0.41,
+   0.53
+  ]
+ },
+ "toys": {
+  "ndcg_share_tied": {
+   "pctm": 0.783,
+   "sasrec": 0.747,
+   "sasrec_refit": 0.732
+  },
+  "pctm_lead_share_tied_conv": 0.941,
+  "sasrec_conv": 0.06,
+  "sasrec_refit": 0.0711,
+  "sasrec_conv_minus_sasplus": 0.0025,
+  "refit_gain_%": 18.5,
+  "gru_refit_gain_%": 23.8,
+  "gru_refit/pctm": 0.89,
+  "refit/pctm_tied_other": [
+   0.902,
+   1.188
+  ],
+  "conv/pctm": 0.814,
+  "inner_pctm_change_%": -12.3,
+  "conv/inner_pctm": 0.927,
+  "fr_conv/pctm": 0.88,
+  "fr_refit/pctm_tied": 0.966,
+  "fr_refit/pctm_sym_tied_other": [
+   0.823,
+   1.114
+  ],
+  "fr_gru_refit_change_tied_%": -45.5,
+  "late_gain_conv_%": 25.2,
+  "late_gain_share_tied": [
+   0.859,
+   0.952
+  ],
+  "late_refit/pctm_%": 10.8,
+  "poe_luo1_vs_late_%": [
+   -14.1,
+   -15.0,
+   -15.1,
+   -15.3,
+   -14.1
+  ],
+  "poe_luo1/pctm": 0.868,
+  "poe_luo0_vs_late_%": [
+   -13.1,
+   -12.9,
+   -13.4,
+   -12.4,
+   -12.7
+  ],
+  "poe_luo0/pctm": 0.887,
+  "poe_luo1_refit_vs_late_%": [
+   -10.3,
+   -8.4,
+   -9.5,
+   -11.4,
+   -11.4
+  ],
+  "poe_luo1_refit/pctm": 0.995,
+  "poe_luo1_bval_vs_late_%": [
+   -10.0,
+   -4.9,
+   -5.2,
+   -9.7,
+   -8.8
+  ],
+  "poe_luo1_bval/pctm": 0.94,
+  "poe_luo1_fix_vs_late_%": [
+   -7.3,
+   -6.3,
+   -6.6,
+   -7.7,
+   -6.2
+  ],
+  "poe_luo1_fix/pctm": 0.949,
+  "residual_luo_vs_full_%": 4.5,
+  "poe_learned_beta": [
+   1.7,
+   1.71,
+   1.71,
+   1.71,
+   1.72
+  ],
+  "bval_best_epoch": [
+   0,
+   1,
+   1,
+   0,
+   0
+  ],
+  "tuned_vs_late_%": -0.0,
+  "late_beta_val": [
+   12.0
+  ],
+  "std_ratio_top100": {
+   "late": 1.2,
+   "poe": 0.24
+  },
+  "stacking_beta_star": {
+   "luo": [
+    0.0
+   ],
+   "full": [
+    20.0
+   ]
+  },
+  "stacking_val_beta": [
+   12.0
+  ],
+  "gate_minus_late": 0.0002,
+  "ltr_gain_%": 2.2,
+  "ltr_share_of_oracle_margin": 0.11,
+  "oracle_selector_vs_late_%": 20.5,
+  "oracle_vs_late_%": 20.5,
+  "oracle_seed_vs_late_%": -1.7,
+  "ens_all_vs_sasrec_%": 12.0,
+  "ens_all_vs_late_%": -10.5,
+  "jaccard": [
+   0.51,
+   0.65
+  ]
+ },
+ "ml1m": {
+  "ndcg_share_tied": {
+   "pctm": 0.653,
+   "sasrec": 0.642,
+   "sasrec_refit": 0.644
+  },
+  "pctm_lead_share_tied_conv": 2.572,
+  "sasrec_conv": 0.1805,
+  "sasrec_refit": 0.182,
+  "sasrec_conv_minus_sasplus": 0.0143,
+  "refit_gain_%": 0.8,
+  "gru_refit_gain_%": 0.1,
+  "gru_refit/pctm": 0.932,
+  "refit/pctm_tied_other": [
+   0.989,
+   1.029
+  ],
+  "conv/pctm": 0.994,
+  "inner_pctm_change_%": -0.5,
+  "conv/inner_pctm": 1.0,
+  "fr_conv/pctm": 0.992,
+  "fr_refit/pctm_tied": 0.962,
+  "fr_refit/pctm_sym_tied_other": [
+   0.953,
+   1.291
+  ],
+  "fr_gru_refit_change_tied_%": -18.1,
+  "late_gain_conv_%": 8.6,
+  "late_gain_share_tied": [
+   0.665,
+   0.639
+  ],
+  "late_refit/pctm_%": 8.8,
+  "poe_luo1_vs_late_%": [
+   -4.5,
+   -4.9,
+   -4.4,
+   -5.0,
+   -3.7
+  ],
+  "poe_luo1/pctm": 1.031,
+  "poe_luo0_vs_late_%": [
+   -4.2,
+   -5.0,
+   -4.2,
+   -5.4,
+   -5.0
+  ],
+  "poe_luo0/pctm": 1.028,
+  "poe_luo1_refit_vs_late_%": [
+   -3.7,
+   -3.6,
+   -4.9,
+   -4.2,
+   -4.5
+  ],
+  "poe_luo1_refit/pctm": 1.042,
+  "poe_luo1_bval_vs_late_%": [
+   -7.7,
+   -7.6,
+   -7.9,
+   -8.5,
+   -7.7
+  ],
+  "poe_luo1_bval/pctm": 0.995,
+  "poe_luo1_fix_vs_late_%": [
+   -7.6,
+   -5.4,
+   -6.9,
+   -7.0,
+   -7.0
+  ],
+  "poe_luo1_fix/pctm": 1.007,
+  "residual_luo_vs_full_%": 148.8,
+  "poe_learned_beta": [
+   1.4,
+   1.4,
+   1.41,
+   1.44,
+   1.39
+  ],
+  "bval_best_epoch": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "tuned_vs_late_%": -0.9,
+  "late_beta_val": [
+   2.0
+  ],
+  "std_ratio_top100": {
+   "late": 0.9,
+   "poe": 1.08
+  },
+  "stacking_beta_star": {
+   "luo": [
+    0.3,
+    0.5,
+    0.75
+   ],
+   "full": [
+    8.0,
+    12.0
+   ]
+  },
+  "stacking_val_beta": [
+   2.0
+  ],
+  "gate_minus_late": 0.0002,
+  "ltr_gain_%": -0.2,
+  "ltr_share_of_oracle_margin": -0.01,
+  "oracle_selector_vs_late_%": 20.3,
+  "oracle_vs_late_%": 20.3,
+  "oracle_seed_vs_late_%": 9.2,
+  "ens_all_vs_sasrec_%": 3.6,
+  "ens_all_vs_late_%": -4.6,
+  "jaccard": [
+   0.61,
+   0.75
+  ]
+ }
+}

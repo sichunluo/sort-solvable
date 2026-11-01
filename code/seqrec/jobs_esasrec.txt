@@ -1,0 +1,8 @@
+ml1m
+beauty
+toys
+sports
+ml1m_fr
+beauty_fr
+toys_fr
+sports_fr

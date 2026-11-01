@@ -1,0 +1,16 @@
+beauty_fr2 --method sasrec --seed 2 --refit 1
+beauty_shuf2 --method sasrec --seed 2 --refit 1
+beauty --method sasrec --seed 2 --refit 1 --refit_scale 1.2
+sports_fr2 --method sasrec --seed 2 --refit 1
+sports_shuf2 --method sasrec --seed 2 --refit 1
+sports --method sasrec --seed 2 --refit 1 --refit_scale 1.2
+toys_fr2 --method sasrec --seed 2 --refit 1
+toys_shuf2 --method sasrec --seed 2 --refit 1
+toys --method sasrec --seed 2 --refit 1 --refit_scale 1.2
+beauty --method poe --luo 1 --seed 2 --beta_init 5 --fix_beta 1 --tag poe_luo1_fix
+sports --method poe --luo 1 --seed 2 --beta_init 8 --fix_beta 1 --tag poe_luo1_fix
+toys --method poe --luo 1 --seed 2 --beta_init 12 --fix_beta 1 --tag poe_luo1_fix
+ml1m_fr2 --method sasrec --seed 2 --refit 1
+ml1m_shuf2 --method sasrec --seed 2 --refit 1
+ml1m --method sasrec --seed 2 --refit 1 --refit_scale 1.2
+ml1m --method poe --luo 1 --seed 2 --beta_init 2 --fix_beta 1 --tag poe_luo1_fix

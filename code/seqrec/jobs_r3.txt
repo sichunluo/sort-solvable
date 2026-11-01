@@ -1,0 +1,34 @@
+beauty_shuf --method sasrec --seed 0 --refit 1
+sports_shuf --method sasrec --seed 0 --refit 1
+toys_shuf --method sasrec --seed 0 --refit 1
+ml1m_shuf --method sasrec --seed 0 --refit 1
+beauty_shuf --method sasrec --seed 1 --refit 1
+sports_shuf --method sasrec --seed 1 --refit 1
+toys_shuf --method sasrec --seed 1 --refit 1
+ml1m_shuf --method sasrec --seed 1 --refit 1
+beauty_shuf --method sasrec --seed 2 --refit 1
+sports_shuf --method sasrec --seed 2 --refit 1
+toys_shuf --method sasrec --seed 2 --refit 1
+ml1m_shuf --method sasrec --seed 2 --refit 1
+beauty --method sasrec --arch gru --seed 0 --refit 1
+sports --method sasrec --arch gru --seed 0 --refit 1
+toys --method sasrec --arch gru --seed 0 --refit 1
+ml1m --method sasrec --arch gru --seed 0 --refit 1
+beauty --method sasrec --arch gru --seed 1 --refit 1
+sports --method sasrec --arch gru --seed 1 --refit 1
+toys --method sasrec --arch gru --seed 1 --refit 1
+ml1m --method sasrec --arch gru --seed 1 --refit 1
+beauty --method sasrec --arch gru --seed 2 --refit 1
+sports --method sasrec --arch gru --seed 2 --refit 1
+toys --method sasrec --arch gru --seed 2 --refit 1
+ml1m --method sasrec --arch gru --seed 2 --refit 1
+beauty_shuf --method sasrec --seed 0
+beauty_shuf --method sasrec --seed 2
+sports_tl0 --method sasrec --seed 1 --refit 1
+toys_tl0 --method sasrec --seed 1 --refit 1
+beauty --method poe --luo 1 --seed 0 --refit 1
+toys --method poe --luo 1 --seed 0 --refit 1
+beauty --method poe --luo 1 --seed 1 --refit 1
+toys --method poe --luo 1 --seed 1 --refit 1
+beauty --method poe --luo 1 --seed 2 --refit 1
+toys --method poe --luo 1 --seed 2 --refit 1

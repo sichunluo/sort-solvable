@@ -1,0 +1,36 @@
+ml1m_tsx --method sasrec --seed 3 --refit 1
+ml1m_tsx --method sasrec --seed 4 --refit 1
+ml1m_tsx --method sasrec --seed 5 --refit 1
+ml1m_tsx --method sasrec --seed 6 --refit 1
+ml1m_tsx --method sasrec --seed 7 --refit 1
+ml1m_tsx --method sasrec --seed 8 --refit 1
+ml1m_tsx --method sasrec --seed 9 --refit 1
+ml1m_fv --method sasrec --seed 0 --refit 1
+ml1m_fv --method sasrec --seed 1 --refit 1
+ml1m_fv --method sasrec --seed 2 --refit 1
+ml1m_fr --method sasrec --seed 0 --refit 1
+ml1m_fr --method sasrec --seed 1 --refit 1
+ml1m_fr --method sasrec --seed 2 --refit 1
+ml1m_day --method sasrec --seed 0 --refit 1
+ml1m_day --method sasrec --seed 1 --refit 1
+ml1m_day --method sasrec --seed 2 --refit 1
+beauty --method poe --luo 1 --beta_val 1 --fix_beta 1 --seed 0
+beauty --method poe --luo 1 --beta_val 1 --fix_beta 1 --seed 1
+beauty --method poe --luo 1 --beta_val 1 --fix_beta 1 --seed 2
+sports --method poe --luo 1 --beta_val 1 --fix_beta 1 --seed 0
+sports --method poe --luo 1 --beta_val 1 --fix_beta 1 --seed 1
+sports --method poe --luo 1 --beta_val 1 --fix_beta 1 --seed 2
+toys --method poe --luo 1 --beta_val 1 --fix_beta 1 --seed 0
+toys --method poe --luo 1 --beta_val 1 --fix_beta 1 --seed 1
+toys --method poe --luo 1 --beta_val 1 --fix_beta 1 --seed 2
+ml1m --method poe --luo 1 --beta_val 1 --fix_beta 1 --seed 0
+ml1m --method poe --luo 1 --beta_val 1 --fix_beta 1 --seed 1
+ml1m --method poe --luo 1 --beta_val 1 --fix_beta 1 --seed 2
+ml1m_shuf1 --method sasrec --seed 0 --refit 1
+ml1m_shuf1 --method sasrec --seed 1 --refit 1
+ml1m_shuf2 --method sasrec --seed 0 --refit 1
+ml1m_shuf2 --method sasrec --seed 1 --refit 1
+ml1m --method sasrec --seed 3 --refit 1
+ml1m --method sasrec --seed 4 --refit 1
+ml1m_shuf --method sasrec --seed 3 --refit 1
+ml1m_shuf --method sasrec --seed 4 --refit 1

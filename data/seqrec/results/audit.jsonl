@@ -1,0 +1,22 @@
+{"name": "Amazon 2014 5-core Beauty", "resolution_s": 1, "events": 198502, "users": 22363, "items": 12101, "tie_pairs": 0.4394370355230812, "tied_targets": 0.4346017976121272, "file_sorted": 1.0, "tied_asc": 1.0}
+{"name": "Amazon 2014 5-core Sports_and_Outdoors", "resolution_s": 1, "events": 296337, "users": 35598, "items": 18357, "tie_pairs": 0.4764266181890703, "tied_targets": 0.4508399348277993, "file_sorted": 1.0, "tied_asc": 1.0}
+{"name": "Amazon 2014 5-core Toys_and_Games", "resolution_s": 1, "events": 167597, "users": 19412, "items": 11924, "tie_pairs": 0.46883962614299696, "tied_targets": 0.49031526890583144, "file_sorted": 1.0, "tied_asc": 1.0}
+{"name": "Amazon 2014 5-core Video Games", "resolution_s": 1, "events": 231780, "users": 24303, "items": 10672, "tie_pairs": 0.3462311485128472, "tied_targets": 0.30728716619347407, "file_sorted": 1.0, "tied_asc": 1.0}
+{"name": "Amazon 2014 Beauty via SASRec preprocessing", "resolution_s": 1, "events": 394908, "users": 52204, "items": 57289, "tie_pairs": 0.46016970913674776, "tied_targets": 0.44291625162822773, "file_sorted": 1.0, "tied_asc": 1.0}
+{"name": "Amazon 2018 5-core Luxury Beauty", "resolution_s": 1, "events": 34278, "users": 3819, "items": 1581, "tie_pairs": 0.45205029712071965, "tied_targets": 0.48546739984289083, "file_sorted": 0.9750269860256149, "tied_asc": 0.5988815455007626}
+{"name": "Amazon 2018 5-core Toys", "resolution_s": 1, "events": 1828971, "users": 208180, "items": 78772, "tie_pairs": 0.5694935374147562, "tied_targets": 0.4894082044384667, "file_sorted": 0.9439362045304187, "tied_asc": 0.8135889407711558}
+{"name": "Amazon 2018 5-core Video Games", "resolution_s": 1, "events": 497577, "users": 55223, "items": 17408, "tie_pairs": 0.4861174534422657, "tied_targets": 0.4147003965738913, "file_sorted": 0.9402081290094377, "tied_asc": 0.8160819583697614}
+{"name": "Amazon 2023 5-core Toys", "resolution_s": 1, "events": 3861886, "users": 432264, "items": 162035, "tie_pairs": 4.898499018259155e-05, "tied_targets": 3.0074213906316512e-05, "file_sorted": 0.5108935144366028, "tied_asc": 0.5059523809523809}
+{"name": "Amazon 2023 5-core Toys (by day)", "resolution_s": 86400, "events": 3861886, "users": 432264, "items": 162035, "tie_pairs": 0.4420965342536291, "tied_targets": 0.32376510650898527, "file_sorted": 0.5108935144366028, "tied_asc": 0.48507608374488204}
+{"name": "MovieLens-1M", "resolution_s": 1, "events": 1000209, "users": 6040, "items": 3706, "tie_pairs": 0.5321489605891956, "tied_targets": 0.42119205298013246, "file_sorted": 0.6254249116183834, "tied_asc": 0.5557834290401968}
+{"name": "MovieLens-20M", "resolution_s": 1, "events": 20000263, "users": 138493, "items": 26744, "tie_pairs": 0.21107861988130966, "tied_targets": 0.20602485324168007, "file_sorted": 0.9930917404981995, "tied_asc": 1.0}
+{"repo": "Woeee/FMLP-Rec", "file": "Beauty.txt", "identical_to_s3rec": true}
+{"repo": "salesforce/ICLRec", "file": "Beauty.txt", "identical_to_s3rec": true}
+{"repo": "salesforce/ICLRec", "file": "Sports_and_Outdoors.txt", "identical_to_s3rec": true}
+{"repo": "salesforce/ICLRec", "file": "Toys_and_Games.txt", "identical_to_s3rec": true}
+{"repo": "YChen1993/CoSeRec", "file": "Beauty.txt", "identical_to_s3rec": true}
+{"repo": "YChen1993/CoSeRec", "file": "Sports_and_Outdoors.txt", "identical_to_s3rec": true}
+{"repo": "YChen1993/CoSeRec", "file": "Toys_and_Games.txt", "identical_to_s3rec": true}
+{"repo": "yehjin-shin/BSARec", "file": "Beauty.txt", "identical_to_s3rec": true}
+{"repo": "yehjin-shin/BSARec", "file": "Sports_and_Outdoors.txt", "identical_to_s3rec": true}
+{"repo": "yehjin-shin/BSARec", "file": "Toys_and_Games.txt", "identical_to_s3rec": true}

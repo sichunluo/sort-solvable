@@ -1,0 +1,4 @@
+beauty --method sasrec --seed 3
+sports --method sasrec --seed 3
+toys --method sasrec --seed 3
+ml1m --method sasrec --seed 3

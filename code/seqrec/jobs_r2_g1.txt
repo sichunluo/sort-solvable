@@ -1,0 +1,48 @@
+sports_shuf --method sasrec --seed 0
+ml1m_shuf --method sasrec --seed 0
+sports_shuf --method sasrec --seed 1
+ml1m_shuf --method sasrec --seed 1
+sports_shuf --method sasrec --seed 2
+ml1m_shuf --method sasrec --seed 2
+beauty_tl1 --method sasrec --seed 0 --refit 1
+sports_tl1 --method sasrec --seed 0 --refit 1
+toys_tl1 --method sasrec --seed 0 --refit 1
+ml1m_tl1 --method sasrec --seed 0 --refit 1
+beauty_tl1 --method sasrec --seed 1 --refit 1
+sports_tl1 --method sasrec --seed 1 --refit 1
+toys_tl1 --method sasrec --seed 1 --refit 1
+ml1m_tl1 --method sasrec --seed 1 --refit 1
+beauty_tl1 --method sasrec --seed 2 --refit 1
+sports_tl1 --method sasrec --seed 2 --refit 1
+toys_tl1 --method sasrec --seed 2 --refit 1
+ml1m_tl1 --method sasrec --seed 2 --refit 1
+sports --method sasrec --seed 0 --refit 1
+ml1m --method sasrec --seed 0 --refit 1
+sports --method sasrec --seed 1 --refit 1
+ml1m --method sasrec --seed 1 --refit 1
+sports --method sasrec --seed 2 --refit 1
+ml1m --method sasrec --seed 2 --refit 1
+sports_t --method sasrec --seed 0 --refit 0 --tag sasrec_norefit
+ml1m_t --method sasrec --seed 0 --refit 0 --tag sasrec_norefit
+sports_t --method sasrec --seed 1 --refit 0 --tag sasrec_norefit
+ml1m_t --method sasrec --seed 1 --refit 0 --tag sasrec_norefit
+sports_t --method sasrec --seed 2 --refit 0 --tag sasrec_norefit
+ml1m_t --method sasrec --seed 2 --refit 0 --tag sasrec_norefit
+sports_t --method sasrec --seed 3 --refit 1
+ml1m_t --method sasrec --seed 3 --refit 1
+sports_t --method sasrec --seed 4 --refit 1
+ml1m_t --method sasrec --seed 4 --refit 1
+ml1m_t --method sasrec --seed 6 --refit 1
+ml1m_t --method sasrec --seed 8 --refit 1
+beauty --method sasrec --arch gru --seed 0
+toys --method sasrec --arch gru --seed 0
+beauty --method sasrec --arch gru --seed 1
+toys --method sasrec --arch gru --seed 1
+beauty --method sasrec --arch gru --seed 2
+toys --method sasrec --arch gru --seed 2
+beauty_t --method sasrec --arch gru --seed 0 --refit 1
+toys_t --method sasrec --arch gru --seed 0 --refit 1
+beauty_t --method sasrec --arch gru --seed 1 --refit 1
+toys_t --method sasrec --arch gru --seed 1 --refit 1
+beauty_t --method sasrec --arch gru --seed 2 --refit 1
+toys_t --method sasrec --arch gru --seed 2 --refit 1

@@ -1,0 +1,140 @@
+beauty --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 0
+beauty --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+beauty_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 0
+beauty_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+beauty_fv --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+beauty_t --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+beauty_tsx --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+beauty --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 1
+beauty --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+beauty_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 1
+beauty_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+beauty_fv --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+beauty_t --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+beauty_tsx --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+beauty --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 2
+beauty --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+beauty_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 2
+beauty_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+beauty_fv --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+beauty_t --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+beauty_tsx --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+beauty --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 3
+beauty --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+beauty_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 3
+beauty_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+beauty_fv --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+beauty_t --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+beauty_tsx --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+beauty --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 4
+beauty --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4
+beauty_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 4
+beauty_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4
+beauty_fv --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4
+beauty_t --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4
+beauty_tsx --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4
+sports --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 0
+sports --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+sports_fr --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 0
+sports_fr --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+sports_fv --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+sports_t --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+sports_tsx --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+sports --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 1
+sports --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+sports_fr --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 1
+sports_fr --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+sports_fv --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+sports_t --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+sports_tsx --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+sports --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 2
+sports --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+sports_fr --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 2
+sports_fr --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+sports_fv --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+sports_t --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+sports_tsx --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+sports --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 3
+sports --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+sports_fr --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 3
+sports_fr --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+sports_fv --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+sports_t --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+sports_tsx --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+sports --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 4
+sports --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4
+sports_fr --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 4
+sports_fr --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4
+sports_fv --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4
+sports_t --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4
+sports_tsx --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4
+toys --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 0
+toys --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+toys_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 0
+toys_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+toys_fv --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+toys_t --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+toys_tsx --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+toys --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 1
+toys --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+toys_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 1
+toys_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+toys_fv --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+toys_t --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+toys_tsx --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+toys --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 2
+toys --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+toys_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 2
+toys_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+toys_fv --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+toys_t --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+toys_tsx --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+toys --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 3
+toys --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+toys_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 3
+toys_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+toys_fv --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+toys_t --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+toys_tsx --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+toys --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 4
+toys --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4
+toys_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 4
+toys_fr --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4
+toys_fv --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4
+toys_t --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4
+toys_tsx --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4
+ml1m --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 0
+ml1m --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+ml1m_fr --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 0
+ml1m_fr --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+ml1m_fv --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+ml1m_t --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+ml1m_tsx --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 0
+ml1m --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 1
+ml1m --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+ml1m_fr --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 1
+ml1m_fr --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+ml1m_fv --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+ml1m_t --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+ml1m_tsx --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 1
+ml1m --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 2
+ml1m --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+ml1m_fr --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 2
+ml1m_fr --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+ml1m_fv --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+ml1m_t --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+ml1m_tsx --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 2
+ml1m --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 3
+ml1m --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+ml1m_fr --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 3
+ml1m_fr --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+ml1m_fv --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+ml1m_t --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+ml1m_tsx --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 3
+ml1m --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 4
+ml1m --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4
+ml1m_fr --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --seed 4
+ml1m_fr --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4
+ml1m_fv --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4
+ml1m_t --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4
+ml1m_tsx --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --refit 1 --seed 4

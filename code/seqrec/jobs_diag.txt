@@ -1,0 +1,4 @@
+beauty --method poe --luo 1 --seed 0 --beta_init 5 --fix_beta 1 --tag poe_luo1_fix
+toys --method poe --luo 1 --seed 0 --beta_init 12 --fix_beta 1 --tag poe_luo1_fix
+sports --method poe --luo 1 --seed 0 --beta_init 8 --fix_beta 1 --tag poe_luo1_fix
+ml1m --method poe --luo 1 --seed 0 --beta_init 2 --fix_beta 1 --tag poe_luo1_fix

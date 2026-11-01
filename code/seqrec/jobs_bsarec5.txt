@@ -1,0 +1,60 @@
+DuoRec_Beauty_s45 --model_type DuoRec --data_name Beauty --num_attention_heads 1 --seed 45
+DuoRec_Beauty_s46 --model_type DuoRec --data_name Beauty --num_attention_heads 1 --seed 46
+DuoRec_Beauty_shuf_s45 --model_type DuoRec --data_name Beauty_shuf --num_attention_heads 1 --seed 45
+DuoRec_Beauty_shuf_s46 --model_type DuoRec --data_name Beauty_shuf --num_attention_heads 1 --seed 46
+DuoRec_Sports_and_Outdoors_s45 --model_type DuoRec --data_name Sports_and_Outdoors --num_attention_heads 1 --seed 45
+DuoRec_Sports_and_Outdoors_s46 --model_type DuoRec --data_name Sports_and_Outdoors --num_attention_heads 1 --seed 46
+DuoRec_Sports_and_Outdoors_shuf_s45 --model_type DuoRec --data_name Sports_and_Outdoors_shuf --num_attention_heads 1 --seed 45
+DuoRec_Sports_and_Outdoors_shuf_s46 --model_type DuoRec --data_name Sports_and_Outdoors_shuf --num_attention_heads 1 --seed 46
+DuoRec_Toys_and_Games_s45 --model_type DuoRec --data_name Toys_and_Games --num_attention_heads 1 --seed 45
+DuoRec_Toys_and_Games_s46 --model_type DuoRec --data_name Toys_and_Games --num_attention_heads 1 --seed 46
+DuoRec_Toys_and_Games_shuf_s45 --model_type DuoRec --data_name Toys_and_Games_shuf --num_attention_heads 1 --seed 45
+DuoRec_Toys_and_Games_shuf_s46 --model_type DuoRec --data_name Toys_and_Games_shuf --num_attention_heads 1 --seed 46
+BSARec_Beauty_s45 --model_type BSARec --data_name Beauty --lr 0.0005 --alpha 0.7 --c 5 --num_attention_heads 1 --seed 45
+BSARec_Beauty_s46 --model_type BSARec --data_name Beauty --lr 0.0005 --alpha 0.7 --c 5 --num_attention_heads 1 --seed 46
+BSARec_Beauty_shuf_s45 --model_type BSARec --data_name Beauty_shuf --lr 0.0005 --alpha 0.7 --c 5 --num_attention_heads 1 --seed 45
+BSARec_Beauty_shuf_s46 --model_type BSARec --data_name Beauty_shuf --lr 0.0005 --alpha 0.7 --c 5 --num_attention_heads 1 --seed 46
+BSARec_Sports_and_Outdoors_s45 --model_type BSARec --data_name Sports_and_Outdoors --lr 0.001 --alpha 0.3 --c 5 --num_attention_heads 4 --seed 45
+BSARec_Sports_and_Outdoors_s46 --model_type BSARec --data_name Sports_and_Outdoors --lr 0.001 --alpha 0.3 --c 5 --num_attention_heads 4 --seed 46
+BSARec_Sports_and_Outdoors_shuf_s45 --model_type BSARec --data_name Sports_and_Outdoors_shuf --lr 0.001 --alpha 0.3 --c 5 --num_attention_heads 4 --seed 45
+BSARec_Sports_and_Outdoors_shuf_s46 --model_type BSARec --data_name Sports_and_Outdoors_shuf --lr 0.001 --alpha 0.3 --c 5 --num_attention_heads 4 --seed 46
+BSARec_Toys_and_Games_s45 --model_type BSARec --data_name Toys_and_Games --lr 0.001 --alpha 0.7 --c 3 --num_attention_heads 1 --seed 45
+BSARec_Toys_and_Games_s46 --model_type BSARec --data_name Toys_and_Games --lr 0.001 --alpha 0.7 --c 3 --num_attention_heads 1 --seed 46
+BSARec_Toys_and_Games_shuf_s45 --model_type BSARec --data_name Toys_and_Games_shuf --lr 0.001 --alpha 0.7 --c 3 --num_attention_heads 1 --seed 45
+BSARec_Toys_and_Games_shuf_s46 --model_type BSARec --data_name Toys_and_Games_shuf --lr 0.001 --alpha 0.7 --c 3 --num_attention_heads 1 --seed 46
+SASRec_Beauty_s45 --model_type SASRec --data_name Beauty --num_attention_heads 1 --seed 45
+SASRec_Beauty_s46 --model_type SASRec --data_name Beauty --num_attention_heads 1 --seed 46
+SASRec_Beauty_shuf_s45 --model_type SASRec --data_name Beauty_shuf --num_attention_heads 1 --seed 45
+SASRec_Beauty_shuf_s46 --model_type SASRec --data_name Beauty_shuf --num_attention_heads 1 --seed 46
+SASRec_Sports_and_Outdoors_s45 --model_type SASRec --data_name Sports_and_Outdoors --num_attention_heads 1 --seed 45
+SASRec_Sports_and_Outdoors_s46 --model_type SASRec --data_name Sports_and_Outdoors --num_attention_heads 1 --seed 46
+SASRec_Sports_and_Outdoors_shuf_s45 --model_type SASRec --data_name Sports_and_Outdoors_shuf --num_attention_heads 1 --seed 45
+SASRec_Sports_and_Outdoors_shuf_s46 --model_type SASRec --data_name Sports_and_Outdoors_shuf --num_attention_heads 1 --seed 46
+SASRec_Toys_and_Games_s45 --model_type SASRec --data_name Toys_and_Games --num_attention_heads 1 --seed 45
+SASRec_Toys_and_Games_s46 --model_type SASRec --data_name Toys_and_Games --num_attention_heads 1 --seed 46
+SASRec_Toys_and_Games_shuf_s45 --model_type SASRec --data_name Toys_and_Games_shuf --num_attention_heads 1 --seed 45
+SASRec_Toys_and_Games_shuf_s46 --model_type SASRec --data_name Toys_and_Games_shuf --num_attention_heads 1 --seed 46
+FMLPRec_Beauty_s45 --model_type FMLPRec --data_name Beauty --num_attention_heads 1 --seed 45
+FMLPRec_Beauty_s46 --model_type FMLPRec --data_name Beauty --num_attention_heads 1 --seed 46
+FMLPRec_Beauty_shuf_s45 --model_type FMLPRec --data_name Beauty_shuf --num_attention_heads 1 --seed 45
+FMLPRec_Beauty_shuf_s46 --model_type FMLPRec --data_name Beauty_shuf --num_attention_heads 1 --seed 46
+FMLPRec_Sports_and_Outdoors_s45 --model_type FMLPRec --data_name Sports_and_Outdoors --num_attention_heads 1 --seed 45
+FMLPRec_Sports_and_Outdoors_s46 --model_type FMLPRec --data_name Sports_and_Outdoors --num_attention_heads 1 --seed 46
+FMLPRec_Sports_and_Outdoors_shuf_s45 --model_type FMLPRec --data_name Sports_and_Outdoors_shuf --num_attention_heads 1 --seed 45
+FMLPRec_Sports_and_Outdoors_shuf_s46 --model_type FMLPRec --data_name Sports_and_Outdoors_shuf --num_attention_heads 1 --seed 46
+FMLPRec_Toys_and_Games_s45 --model_type FMLPRec --data_name Toys_and_Games --num_attention_heads 1 --seed 45
+FMLPRec_Toys_and_Games_s46 --model_type FMLPRec --data_name Toys_and_Games --num_attention_heads 1 --seed 46
+FMLPRec_Toys_and_Games_shuf_s45 --model_type FMLPRec --data_name Toys_and_Games_shuf --num_attention_heads 1 --seed 45
+FMLPRec_Toys_and_Games_shuf_s46 --model_type FMLPRec --data_name Toys_and_Games_shuf --num_attention_heads 1 --seed 46
+GRU4Rec_Beauty_s45 --model_type GRU4Rec --data_name Beauty --num_attention_heads 1 --seed 45
+GRU4Rec_Beauty_s46 --model_type GRU4Rec --data_name Beauty --num_attention_heads 1 --seed 46
+GRU4Rec_Beauty_shuf_s45 --model_type GRU4Rec --data_name Beauty_shuf --num_attention_heads 1 --seed 45
+GRU4Rec_Beauty_shuf_s46 --model_type GRU4Rec --data_name Beauty_shuf --num_attention_heads 1 --seed 46
+GRU4Rec_Sports_and_Outdoors_s45 --model_type GRU4Rec --data_name Sports_and_Outdoors --num_attention_heads 1 --seed 45
+GRU4Rec_Sports_and_Outdoors_s46 --model_type GRU4Rec --data_name Sports_and_Outdoors --num_attention_heads 1 --seed 46
+GRU4Rec_Sports_and_Outdoors_shuf_s45 --model_type GRU4Rec --data_name Sports_and_Outdoors_shuf --num_attention_heads 1 --seed 45
+GRU4Rec_Sports_and_Outdoors_shuf_s46 --model_type GRU4Rec --data_name Sports_and_Outdoors_shuf --num_attention_heads 1 --seed 46
+GRU4Rec_Toys_and_Games_s45 --model_type GRU4Rec --data_name Toys_and_Games --num_attention_heads 1 --seed 45
+GRU4Rec_Toys_and_Games_s46 --model_type GRU4Rec --data_name Toys_and_Games --num_attention_heads 1 --seed 46
+GRU4Rec_Toys_and_Games_shuf_s45 --model_type GRU4Rec --data_name Toys_and_Games_shuf --num_attention_heads 1 --seed 45
+GRU4Rec_Toys_and_Games_shuf_s46 --model_type GRU4Rec --data_name Toys_and_Games_shuf --num_attention_heads 1 --seed 46

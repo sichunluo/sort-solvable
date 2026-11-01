@@ -1,0 +1,18 @@
+beauty --method sasrec --seed 0
+beauty --method poe --luo 1 --seed 0
+beauty --method poe --luo 0 --seed 0
+sports --method sasrec --seed 0
+sports --method poe --luo 1 --seed 0
+sports --method poe --luo 0 --seed 0
+beauty --method sasrec --seed 1
+beauty --method poe --luo 1 --seed 1
+beauty --method poe --luo 0 --seed 1
+sports --method sasrec --seed 1
+sports --method poe --luo 1 --seed 1
+sports --method poe --luo 0 --seed 1
+beauty --method sasrec --seed 2
+beauty --method poe --luo 1 --seed 2
+beauty --method poe --luo 0 --seed 2
+sports --method sasrec --seed 2
+sports --method poe --luo 1 --seed 2
+sports --method poe --luo 0 --seed 2

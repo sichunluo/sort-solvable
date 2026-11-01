@@ -1,0 +1,48 @@
+beauty --arch bert --mask_prob 0.2 --mask_last 0 --epochs 1000 --patience 40 --tag bert_m0.2_l0_sas --seed 0
+beauty --arch bert --mask_prob 0.2 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.2_l0_orig --seed 0
+beauty --arch bert --mask_prob 0.2 --mask_last 0.2 --epochs 1000 --patience 40 --tag bert_m0.2_l0.2_sas --seed 0
+beauty --arch bert --mask_prob 0.2 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.2_l0.2_orig --seed 0
+beauty --arch bert --mask_prob 0.4 --mask_last 0 --epochs 1000 --patience 40 --tag bert_m0.4_l0_sas --seed 0
+beauty --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.4_l0_orig --seed 0
+beauty --arch bert --mask_prob 0.4 --mask_last 0.2 --epochs 1000 --patience 40 --tag bert_m0.4_l0.2_sas --seed 0
+beauty --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.4_l0.2_orig --seed 0
+beauty --arch bert --mask_prob 0.6 --mask_last 0 --epochs 1000 --patience 40 --tag bert_m0.6_l0_sas --seed 0
+beauty --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.6_l0_orig --seed 0
+beauty --arch bert --mask_prob 0.6 --mask_last 0.2 --epochs 1000 --patience 40 --tag bert_m0.6_l0.2_sas --seed 0
+beauty --arch bert --mask_prob 0.6 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.6_l0.2_orig --seed 0
+sports --arch bert --mask_prob 0.2 --mask_last 0 --epochs 1000 --patience 40 --tag bert_m0.2_l0_sas --seed 0
+sports --arch bert --mask_prob 0.2 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.2_l0_orig --seed 0
+sports --arch bert --mask_prob 0.2 --mask_last 0.2 --epochs 1000 --patience 40 --tag bert_m0.2_l0.2_sas --seed 0
+sports --arch bert --mask_prob 0.2 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.2_l0.2_orig --seed 0
+sports --arch bert --mask_prob 0.4 --mask_last 0 --epochs 1000 --patience 40 --tag bert_m0.4_l0_sas --seed 0
+sports --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.4_l0_orig --seed 0
+sports --arch bert --mask_prob 0.4 --mask_last 0.2 --epochs 1000 --patience 40 --tag bert_m0.4_l0.2_sas --seed 0
+sports --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.4_l0.2_orig --seed 0
+sports --arch bert --mask_prob 0.6 --mask_last 0 --epochs 1000 --patience 40 --tag bert_m0.6_l0_sas --seed 0
+sports --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.6_l0_orig --seed 0
+sports --arch bert --mask_prob 0.6 --mask_last 0.2 --epochs 1000 --patience 40 --tag bert_m0.6_l0.2_sas --seed 0
+sports --arch bert --mask_prob 0.6 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.6_l0.2_orig --seed 0
+toys --arch bert --mask_prob 0.2 --mask_last 0 --epochs 1000 --patience 40 --tag bert_m0.2_l0_sas --seed 0
+toys --arch bert --mask_prob 0.2 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.2_l0_orig --seed 0
+toys --arch bert --mask_prob 0.2 --mask_last 0.2 --epochs 1000 --patience 40 --tag bert_m0.2_l0.2_sas --seed 0
+toys --arch bert --mask_prob 0.2 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.2_l0.2_orig --seed 0
+toys --arch bert --mask_prob 0.4 --mask_last 0 --epochs 1000 --patience 40 --tag bert_m0.4_l0_sas --seed 0
+toys --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.4_l0_orig --seed 0
+toys --arch bert --mask_prob 0.4 --mask_last 0.2 --epochs 1000 --patience 40 --tag bert_m0.4_l0.2_sas --seed 0
+toys --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.4_l0.2_orig --seed 0
+toys --arch bert --mask_prob 0.6 --mask_last 0 --epochs 1000 --patience 40 --tag bert_m0.6_l0_sas --seed 0
+toys --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.6_l0_orig --seed 0
+toys --arch bert --mask_prob 0.6 --mask_last 0.2 --epochs 1000 --patience 40 --tag bert_m0.6_l0.2_sas --seed 0
+toys --arch bert --mask_prob 0.6 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.6_l0.2_orig --seed 0
+ml1m --arch bert --mask_prob 0.2 --mask_last 0 --epochs 1000 --patience 40 --tag bert_m0.2_l0_sas --seed 0
+ml1m --arch bert --mask_prob 0.2 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.2_l0_orig --seed 0
+ml1m --arch bert --mask_prob 0.2 --mask_last 0.2 --epochs 1000 --patience 40 --tag bert_m0.2_l0.2_sas --seed 0
+ml1m --arch bert --mask_prob 0.2 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.2_l0.2_orig --seed 0
+ml1m --arch bert --mask_prob 0.4 --mask_last 0 --epochs 1000 --patience 40 --tag bert_m0.4_l0_sas --seed 0
+ml1m --arch bert --mask_prob 0.4 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.4_l0_orig --seed 0
+ml1m --arch bert --mask_prob 0.4 --mask_last 0.2 --epochs 1000 --patience 40 --tag bert_m0.4_l0.2_sas --seed 0
+ml1m --arch bert --mask_prob 0.4 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.4_l0.2_orig --seed 0
+ml1m --arch bert --mask_prob 0.6 --mask_last 0 --epochs 1000 --patience 40 --tag bert_m0.6_l0_sas --seed 0
+ml1m --arch bert --mask_prob 0.6 --mask_last 0 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.6_l0_orig --seed 0
+ml1m --arch bert --mask_prob 0.6 --mask_last 0.2 --epochs 1000 --patience 40 --tag bert_m0.6_l0.2_sas --seed 0
+ml1m --arch bert --mask_prob 0.6 --mask_last 0.2 --blocks 2 --heads 2 --dropout 0.1 --epochs 1000 --patience 40 --tag bert_m0.6_l0.2_orig --seed 0

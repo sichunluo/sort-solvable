@@ -1,0 +1,36 @@
+beauty_fr --method sasrec --seed 0
+beauty_fr --method sasrec --seed 1
+beauty_fr --method sasrec --seed 2
+sports_fr --method sasrec --seed 0
+sports_fr --method sasrec --seed 1
+sports_fr --method sasrec --seed 2
+toys_fr --method sasrec --seed 0
+toys_fr --method sasrec --seed 1
+toys_fr --method sasrec --seed 2
+ml1m_fr --method sasrec --seed 0
+ml1m_fr --method sasrec --seed 1
+ml1m_fr --method sasrec --seed 2
+beauty_fr --method sasrec --arch gru --seed 0 --refit 1
+beauty_fr --method sasrec --arch gru --seed 1 --refit 1
+beauty_fr --method sasrec --arch gru --seed 2 --refit 1
+sports_fr --method sasrec --arch gru --seed 0 --refit 1
+sports_fr --method sasrec --arch gru --seed 1 --refit 1
+sports_fr --method sasrec --arch gru --seed 2 --refit 1
+toys_fr --method sasrec --arch gru --seed 0 --refit 1
+toys_fr --method sasrec --arch gru --seed 1 --refit 1
+toys_fr --method sasrec --arch gru --seed 2 --refit 1
+ml1m_fr --method sasrec --arch gru --seed 0 --refit 1
+ml1m_fr --method sasrec --arch gru --seed 1 --refit 1
+ml1m_fr --method sasrec --arch gru --seed 2 --refit 1
+beauty_tsx --method sasrec --arch gru --seed 0 --refit 1
+beauty_tsx --method sasrec --arch gru --seed 1 --refit 1
+beauty_tsx --method sasrec --arch gru --seed 2 --refit 1
+sports_tsx --method sasrec --arch gru --seed 0 --refit 1
+sports_tsx --method sasrec --arch gru --seed 1 --refit 1
+sports_tsx --method sasrec --arch gru --seed 2 --refit 1
+toys_tsx --method sasrec --arch gru --seed 0 --refit 1
+toys_tsx --method sasrec --arch gru --seed 1 --refit 1
+toys_tsx --method sasrec --arch gru --seed 2 --refit 1
+ml1m_tsx --method sasrec --arch gru --seed 0 --refit 1
+ml1m_tsx --method sasrec --arch gru --seed 1 --refit 1
+ml1m_tsx --method sasrec --arch gru --seed 2 --refit 1

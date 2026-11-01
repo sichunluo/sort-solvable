@@ -1,0 +1,12 @@
+beauty_tsx --method sasrec --seed 0 --refit 1
+sports_tsx --method sasrec --seed 0 --refit 1
+toys_tsx --method sasrec --seed 0 --refit 1
+ml1m_tsx --method sasrec --seed 0 --refit 1
+beauty_tsx --method sasrec --seed 1 --refit 1
+sports_tsx --method sasrec --seed 1 --refit 1
+toys_tsx --method sasrec --seed 1 --refit 1
+ml1m_tsx --method sasrec --seed 1 --refit 1
+beauty_tsx --method sasrec --seed 2 --refit 1
+sports_tsx --method sasrec --seed 2 --refit 1
+toys_tsx --method sasrec --seed 2 --refit 1
+ml1m_tsx --method sasrec --seed 2 --refit 1

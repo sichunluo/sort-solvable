@@ -1,0 +1,358 @@
+{
+ "refit": {
+  "beauty": {
+   "<10%": {
+    "share_of_targets": 0.29389090583120436,
+    "refit_gain": -0.12205879151347776,
+    "refit_over_pctm": 0.7818429702173857
+   },
+   "10-25%": {
+    "share_of_targets": 0.4016852673569091,
+    "refit_gain": 0.041544573727438916,
+    "refit_over_pctm": 0.9553120869915516
+   },
+   "25-50%": {
+    "share_of_targets": 0.2343238761149209,
+    "refit_gain": 0.413064902077398,
+    "refit_over_pctm": 1.1608931273827976
+   },
+   ">=50%": {
+    "share_of_targets": 0.07009995069696562,
+    "refit_gain": 0.855332313218305,
+    "refit_over_pctm": 1.407197822901152
+   },
+   "withheld_later_than_test_target": 0.4049606212825802,
+   "other_train_later_than_test_target": 0.2437820037029315
+  },
+  "sports": {
+   "<10%": {
+    "share_of_targets": 0.2972790455555868,
+    "refit_gain": -0.2349008259733234,
+    "refit_over_pctm": 0.6963659100226753
+   },
+   "10-25%": {
+    "share_of_targets": 0.4071864712006528,
+    "refit_gain": 0.07777120326959053,
+    "refit_over_pctm": 0.9397025879059934
+   },
+   "25-50%": {
+    "share_of_targets": 0.22777793410056557,
+    "refit_gain": 0.6297075797497635,
+    "refit_over_pctm": 1.2801760090924121
+   },
+   ">=50%": {
+    "share_of_targets": 0.0677565491431948,
+    "refit_gain": 1.022710934891582,
+    "refit_over_pctm": 1.400143716511486
+   },
+   "withheld_later_than_test_target": 0.4017326956262833,
+   "other_train_later_than_test_target": 0.23759843348328497
+  },
+  "toys": {
+   "<10%": {
+    "share_of_targets": 0.29816679576555644,
+    "refit_gain": -0.24280899316426452,
+    "refit_over_pctm": 0.759160320228064
+   },
+   "10-25%": {
+    "share_of_targets": 0.35713916860315004,
+    "refit_gain": 0.07824898449625195,
+    "refit_over_pctm": 0.8762411998940633
+   },
+   "25-50%": {
+    "share_of_targets": 0.2500903692228247,
+    "refit_gain": 0.4099951731426881,
+    "refit_over_pctm": 1.0925860129777107
+   },
+   ">=50%": {
+    "share_of_targets": 0.09460366640846889,
+    "refit_gain": 1.0227638199015159,
+    "refit_over_pctm": 1.2649007089758941
+   },
+   "withheld_later_than_test_target": 0.4130674920129661,
+   "other_train_later_than_test_target": 0.24935056724241833
+  },
+  "ml1m": {
+   "<10%": {
+    "share_of_targets": 0.9996687644915535,
+    "refit_gain": 0.00893435644234919,
+    "refit_over_pctm": 1.003352199389662
+   },
+   "10-25%": {
+    "share_of_targets": 0.0003312355084465055,
+    "refit_gain": -0.2812675308897471,
+    "refit_over_pctm": 0.6656799152121098
+   },
+   "25-50%": {
+    "share_of_targets": 0.0,
+    "refit_gain": NaN,
+    "refit_over_pctm": NaN
+   },
+   ">=50%": {
+    "share_of_targets": 0.0,
+    "refit_gain": NaN,
+    "refit_over_pctm": NaN
+   },
+   "withheld_later_than_test_target": 0.49560548331213544,
+   "other_train_later_than_test_target": 0.44487026903658095
+  }
+ },
+ "direction": {
+  "beauty": {
+   "tied": 0.29833844989424874,
+   "other": 0.022567691594969963,
+   "share_of_gain_on_tied": 0.9600068393546596
+  },
+  "sports": {
+   "tied": 0.3668352799653125,
+   "other": -0.049002966807363935,
+   "share_of_gain_on_tied": 1.1121606367305659
+  },
+  "toys": {
+   "tied": 0.2444735872224697,
+   "other": -0.07480874754805744,
+   "share_of_gain_on_tied": 1.1287296670655762
+  },
+  "ml1m": {
+   "tied": 0.20404789482844699,
+   "other": 0.17634662653255417,
+   "share_of_gain_on_tied": 0.6799672271325383
+  }
+ },
+ "gts": {
+  "beauty": {
+   "users_with_future_events": 5585,
+   "test_users": 5178,
+   "target_is_first_future_event": 0.9806875241405948,
+   "first_future_event_new_item": 0.09077887197851388,
+   "several_eligible_same_day": 0.3455001931247586
+  },
+  "sports": {
+   "users_with_future_events": 9328,
+   "test_users": 9108,
+   "target_is_first_future_event": 0.9946201141853316,
+   "first_future_event_new_item": 0.028837907375643224,
+   "several_eligible_same_day": 0.3818620992534036
+  },
+  "toys": {
+   "users_with_future_events": 5021,
+   "test_users": 4632,
+   "target_is_first_future_event": 0.9784110535405872,
+   "first_future_event_new_item": 0.0973909579764987,
+   "several_eligible_same_day": 0.37240932642487046
+  },
+  "ml1m": {
+   "users_with_future_events": 1180,
+   "test_users": 1179,
+   "target_is_first_future_event": 0.9991518235793045,
+   "first_future_event_new_item": 0.001694915254237288,
+   "several_eligible_same_day": 0.27565733672603904
+  }
+ },
+ "rolling": {
+  "beauty_t": {
+   "all": 0.8997890977409974,
+   "tied": 0.8871220044693677,
+   "other": 0.9589277864738261,
+   "all_incl_val": 0.9489721698757702,
+   "share_excluded": 0.3750217530019143
+  },
+  "beauty_ts": {
+   "all": 1.0034910303521396,
+   "tied": 0.9689899877465796,
+   "other": 1.0970244001165004,
+   "all_incl_val": 1.059591600972318,
+   "share_excluded": 0.3747248928530059
+  },
+  "sports_t": {
+   "all": 0.8699533027518308,
+   "tied": 0.8751022123321095,
+   "other": 0.8290371468966121,
+   "all_incl_val": 0.894821676646569,
+   "share_excluded": 0.37275394206087276
+  },
+  "sports_ts": {
+   "all": 0.9225214176223722,
+   "tied": 0.8879066607046746,
+   "other": 1.1168487217637002,
+   "all_incl_val": 0.9853519535405709,
+   "share_excluded": 0.3725856697819314
+  },
+  "toys_t": {
+   "all": 0.8167838494913193,
+   "tied": 0.8110578184881051,
+   "other": 0.8897817498090855,
+   "all_incl_val": 0.8557212427222752,
+   "share_excluded": 0.358158830501778
+  },
+  "toys_ts": {
+   "all": 0.9175287195449857,
+   "tied": 0.9147204315627292,
+   "other": 0.933190510360767,
+   "all_incl_val": 0.9796042126626773,
+   "share_excluded": 0.35804094529655717
+  },
+  "ml1m_t": {
+   "all": 0.8759526480337784,
+   "tied": 0.8663163749663106,
+   "other": 0.8950219028052014,
+   "all_incl_val": 0.8776416623419565,
+   "share_excluded": 0.011408909815284307
+  },
+  "ml1m_ts": {
+   "all": 0.9509147847802643,
+   "tied": 0.9479327132944487,
+   "other": 0.9557575117380768,
+   "all_incl_val": 0.9525918740083039,
+   "share_excluded": 0.011408795034055341
+  }
+ },
+ "refit_by_leak": {
+  "beauty": [
+   {
+    "withheld_after_target": [
+     0.0,
+     0.10897464561999737
+    ],
+    "refit_gain": 0.22261185916973925,
+    "n": 4427
+   },
+   {
+    "withheld_after_target": [
+     0.11071859768367398,
+     0.26610919822921786
+    ],
+    "refit_gain": 0.14409950993456633,
+    "n": 4471
+   },
+   {
+    "withheld_after_target": [
+     0.2695076689174082,
+     0.46500916692751415
+    ],
+    "refit_gain": 0.1965474332461914,
+    "n": 4467
+   },
+   {
+    "withheld_after_target": [
+     0.46702141930867946,
+     0.699414210973483
+    ],
+    "refit_gain": 0.14414296610286637,
+    "n": 4472
+   },
+   {
+    "withheld_after_target": [
+     0.7007109958413451,
+     0.9999552832804185
+    ],
+    "refit_gain": 0.061454147584708796,
+    "n": 4474
+   }
+  ],
+  "sports": [
+   {
+    "withheld_after_target": [
+     0.0,
+     0.10902297881903478
+    ],
+    "refit_gain": 0.2651237461549869,
+    "n": 7084
+   },
+   {
+    "withheld_after_target": [
+     0.11118602168661162,
+     0.26271138828024043
+    ],
+    "refit_gain": 0.18627127800184806,
+    "n": 7096
+   },
+   {
+    "withheld_after_target": [
+     0.26504297994269344,
+     0.4583965391314119
+    ],
+    "refit_gain": 0.16459716839260996,
+    "n": 7092
+   },
+   {
+    "withheld_after_target": [
+     0.45994156975110956,
+     0.6955166020562953
+    ],
+    "refit_gain": 0.18686023186999168,
+    "n": 7156
+   },
+   {
+    "withheld_after_target": [
+     0.6964436204281139,
+     0.9999438170683747
+    ],
+    "refit_gain": 0.07743608726263962,
+    "n": 7111
+   }
+  ],
+  "toys": [
+   {
+    "withheld_after_target": [
+     0.0,
+     0.11333195961261078
+    ],
+    "refit_gain": 0.36146856025126195,
+    "n": 3864
+   },
+   {
+    "withheld_after_target": [
+     0.11472285184422004,
+     0.27359365341026165
+    ],
+    "refit_gain": 0.187585024306562,
+    "n": 3871
+   },
+   {
+    "withheld_after_target": [
+     0.27606635071090047,
+     0.47573665773748197
+    ],
+    "refit_gain": 0.22248834089778247,
+    "n": 3876
+   },
+   {
+    "withheld_after_target": [
+     0.47810632598392744,
+     0.7173397898207294
+    ],
+    "refit_gain": 0.1486015386646966,
+    "n": 3880
+   },
+   {
+    "withheld_after_target": [
+     0.7180609932000824,
+     0.99984545641871
+    ],
+    "refit_gain": 0.050740262199657105,
+    "n": 3874
+   }
+  ]
+ },
+ "cross_day_newer": {
+  "beauty": {
+   "newer": 0.5304191944255953,
+   "same_first_day": 0.006512249713886385,
+   "older": 0.46306855586051837,
+   "pairs": 98737
+  },
+  "sports": {
+   "newer": 0.4855914325060799,
+   "same_first_day": 0.0010987723050777931,
+   "older": 0.5133097951888422,
+   "pairs": 136516
+  },
+  "toys": {
+   "newer": 0.5548342014991742,
+   "same_first_day": 0.006809808156523949,
+   "older": 0.4383559903443019,
+   "pairs": 78710
+  }
+ }
+}
